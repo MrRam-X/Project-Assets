@@ -1,0 +1,8 @@
+Date - 2025/11/16
+
+- Implement Completed and Ongoing projects section from github commits
+- Add badges such as New and Updated for newly added projects and updated code in ongoing projects
+- Separate the frontend source code and backend source code.
+- Add Details of the project in details page
+- Add Profile pic and social media links
+- Add download cv feature

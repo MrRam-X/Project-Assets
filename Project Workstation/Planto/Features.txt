@@ -1,0 +1,20 @@
+* Features List ==============
+
+MVP Features
+
+- Login/Logout
+- Plant Listing, pagination, sort, search, filter
+- Plant Details Page accordion, gallery, similar products
+- Add to cart and wishlist
+- Shopping Cart items increase quantity/remove, total(sub + shipping + tax + discount), Shipping Info, Payment Gateway
+- Profile update (name, address, payment details)
+- Your Orders view (order details, track order status, cancel order)
+- Wishlist view list of plants added to wishlist
+- Contact Us send message
+
+[Home]
+
+- Shop Now (Redirect to Shopping page)
+- Category listing
+- Features Product listing
+- Explore guide feature.

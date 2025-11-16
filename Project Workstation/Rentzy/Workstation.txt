@@ -1,0 +1,23 @@
+Date - 2025/11/11 12:25PM
+
+- Devlop Get in touch feature in contact page (done)
+- Navbar active route highlight (done)
+- Fix Transmission filter not working properly (done)
+- Update booking form pickup location type (done)
+
+Date - 2025/11/11 19:45PM
+
+- Add Error Boundary to catch unexpected white screen errors (done)
+- Fix scroll is working when spinner is showing (done)
+- Image not showing when clicking on left arrow in image gallery (done)
+- Fix clicking a link not going to top (done)
+
+Date - 2025/11/13 20:45 PM
+
+- Fix by default all accordions are open in lg screens (done)
+- Text Size keeep standard across the application (done)
+- Display toaster messages for not available/developed Features (done)
+- Polish the Car Rental Process section to guide the users properly (done)
+- Display proper text/info/content in overall application (done)
+- Add Readme file description for both client and server
+- Fix Ui dotted line showing in the footer (only in xl and lg screens)
